@@ -28,6 +28,9 @@ is plenty of free parking in front of the building. [Click here][2] to get direc
 [Click here to RSVP][3]. Please take a moment to RSVP; it really helps us understand
 how much food and seating we ought to prepare. Hope to see you there!
 
+[Slides for this talk are now available][4]
+
 [1]: https://hfpug.com/pure_op_based_crdt.pdf
 [2]: https://www.google.com/maps/place/10111+Richmond+Ave+%23550,+Houston,+TX+77042/@29.7276881,-95.5536627,17z/data=!3m1!4b1!4m5!3m4!1s0x8640c32f7f4403ef:0x9f415717d58bbb25!8m2!3d29.7276628!4d-95.5514895
 [3]: https://www.eventbrite.com/e/houston-functional-programmers-pure-op-based-crdts-tickets-89193053825
+[4]: https://hfpug.com/january-2020-pure_ops_crdt.pdf
